@@ -1,0 +1,18 @@
+body {
+    box-sizing: border-box;
+    background-color:cyan;
+}
+.container {
+    border-radius: 10px solid ;
+    width: 300px;
+    border: 2px solid black;
+    padding: 8px;
+}
+input[type=text] {
+    font-size: 10px;
+    color: orange;
+    font-family: montserrat,sans sans-serif;
+    background-color:#fff ;
+   
+    width: 50%;
+}
